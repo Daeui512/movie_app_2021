@@ -1,0 +1,23 @@
+.detail_movie{
+    width: 500px;
+    padding-left : 300px;
+    padding-right: 300px;
+}
+
+.detail_movie .content{
+    width: 500px;
+}
+
+.detail_movie .detail_title{
+    text-align: center;
+}
+
+.detail_movie .detail_year{
+    text-align: right;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.detail_movie .detail_img{
+    width: 300px;
+}
